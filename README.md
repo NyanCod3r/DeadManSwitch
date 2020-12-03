@@ -34,7 +34,6 @@ The purpose of this script is to secure the transfer of important information to
 * Add the possibility to use your own SMTP
 * Add KMS option
 * Add fancy GUI
-✓ Tested on Windows - Successful
 * Add DynamoDb logs
 * Add possibility to modify content of mails
 * Add possibility to add and remove mails
