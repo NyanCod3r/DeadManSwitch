@@ -18,7 +18,7 @@ Dead Mand Switch project (V 1.0) is an interactive cross-platform python script 
 * A valid AWS account
 * A personal email
 * Most email providers won't allow "from and to" with the same recipients so a functional email recipient for regular task reports is strongly advised
-* Valid outgoing recipients
+* AWS validated email recipients
 	
 ## Setup
 To run this project please clone the repository and cd into it:
